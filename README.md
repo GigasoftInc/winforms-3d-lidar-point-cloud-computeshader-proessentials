@@ -14,6 +14,12 @@ Clone it, press **F5**, and rotate a real point cloud. No trial signup, no accou
 
 ---
 
+> **Found ProEssentials through this repo?** Use code **GITHUB15_OCT31** at checkout for 15% off your first license.
+>
+> Thanks for sharing — every share and star helps another engineer find this repo.
+
+---
+
 ## What this WinForms LiDAR demo includes
 
 | Feature | Value |
